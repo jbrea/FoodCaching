@@ -1,0 +1,9 @@
+[submodule "FoodCachingExperiments"]
+	path = FoodCachingExperiments
+	url = ./FoodCachingExperiments
+[submodule "FoodCachingModels"]
+	path = FoodCachingModels
+	url = ./FoodCachingModels
+[submodule "FoodCachingFitting"]
+	path = FoodCachingFitting
+	url = ./FoodCachingFitting
