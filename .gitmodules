@@ -1,12 +1,12 @@
 [submodule "FoodCachingExperiments"]
 	path = FoodCachingExperiments
-	url = ./FoodCachingExperiments
+	url = https://github.com/jbrea/FoodCachingExperiments.jl
 [submodule "FoodCachingModels"]
 	path = FoodCachingModels
-	url = ./FoodCachingModels
+	url = https://github.com/jbrea/FoodCachingModels.jl
 [submodule "FoodCachingFitting"]
 	path = FoodCachingFitting
-	url = ./FoodCachingFitting
+	url = https://github.com/jbrea/FoodCachingFitting.jl
 [submodule "FoodCachingPlotting"]
 	path = FoodCachingPlotting
-	url = ./FoodCachingPlotting
+	url = https://github.com/jbrea/FoodCachingPlotting.jl
