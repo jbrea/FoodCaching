@@ -1,0 +1,9 @@
+[deps]
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+FoodCachingExperiments = "c83de4e0-732e-420a-99d5-72756bd45ef8"
+FoodCachingFitting = "a7b569ab-bf07-46ef-a7a0-1661680794a0"
+FoodCachingModels = "1c4db5f1-e6ab-45d4-a5c5-b1bf60220e94"
+FoodCachingPlotting = "cce7436b-6fc9-45d4-b559-7090ca6316e4"
+NestedStructInitialiser = "82eb44c5-af0e-4169-934d-9c2441e452c9"
+PlanningVsCompensatoryCaching = "2a32e55a-db92-4381-b007-78a68947095e"
+StipplePlotly = "ec984513-233d-481d-95b0-a3b58b97af2b"

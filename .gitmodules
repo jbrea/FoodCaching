@@ -7,3 +7,6 @@
 [submodule "FoodCachingFitting"]
 	path = FoodCachingFitting
 	url = ./FoodCachingFitting
+[submodule "FoodCachingPlotting"]
+	path = FoodCachingPlotting
+	url = ./FoodCachingPlotting
