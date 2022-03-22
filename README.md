@@ -9,4 +9,4 @@ This repository contains four submodules. Clone all of them with the command
 Alternatively, the modules can be cloned individually, e.g.
 `git clone https://github.com/jbrea/FoodCaching/FoodCachingExperiments`.
 
-The code is tested with the [julia LTS version 1.6](https://julialang.org/downloads/).
+The code is tested with the [julia 1.6](https://julialang.org/downloads/).
