@@ -1,6 +1,6 @@
 This repository contains the code for the article
 
-**"Food Caching: Modelling Memory Formation and Behaviour"**
+**"Intelligence of Food Caching: Modelling Memory Formation and Behavior"**
 Johanni Brea, Nicola S. Clayton, Wulfram Gerstner
 
 This repository contains four submodules. Clone all of them with the command
@@ -8,3 +8,5 @@ This repository contains four submodules. Clone all of them with the command
 
 Alternatively, the modules can be cloned individually, e.g.
 `git clone https://github.com/jbrea/FoodCaching/FoodCachingExperiments`.
+
+The code is tested with the [julia LTS version 1.6](https://julialang.org/downloads/).
