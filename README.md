@@ -1,6 +1,6 @@
 This repository contains the code for the article
 
-**"Intelligence of Food Caching: Modelling Memory Formation and Behavior"**
+**"Computational models of episodic-like memory in food-caching birds"**
 Johanni Brea, Nicola S. Clayton, Wulfram Gerstner
 
 This repository contains four submodules. Clone all of them with the command
