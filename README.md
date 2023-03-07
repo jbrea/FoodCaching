@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/472290860.svg)](https://zenodo.org/badge/latestdoi/472290860)
+
 This repository contains the code for the article
 
 **"Computational models of episodic-like memory in food-caching birds"**
