@@ -17,6 +17,5 @@ Alternatively, the modules can be cloned individually, e.g.
 
 See [FoodCachingExperiments](https://github.com/jbrea/FoodCaching/FoodCachingExperiments.jl)
 if you want to simulate your model on published experimental protocols.
-`git clone https://github.com/jbrea/FoodCaching/FoodCachingExperiments`.
 
 The code is tested with the [julia 1.7](https://julialang.org/downloads/).
