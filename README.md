@@ -7,7 +7,8 @@
 This repository contains the code for the article
 
 **"Computational models of episodic-like memory in food-caching birds"**
-Johanni Brea, Nicola S. Clayton, Wulfram Gerstner
+Johanni Brea, Nicola S. Clayton, Wulfram Gerstner,
+https://www.nature.com/articles/s41467-023-38570-x
 
 This repository contains four submodules. Clone all of them with the command
 `git clone --recursive https://github.com/jbrea/FoodCaching`.
